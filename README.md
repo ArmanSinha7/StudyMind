@@ -20,6 +20,6 @@ HTML5 · CSS3 · Vanilla JavaScript · Anthropic Claude API · localStorage
 
 🚀 Getting Started
 Just open index.html in any modern browser. No setup required.
-Add your Anthropic API key in the settings to unlock AI features.
+Add your Anthropic/OpenAI API key in the settings to unlock AI features.
 
-Built with ❤️ by [Your Team Name] · VIT Vellore
+Built with ❤️ by MDP Students under the guidance of Prof. Jayalakshmi M· VIT Vellore
